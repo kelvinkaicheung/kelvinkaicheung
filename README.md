@@ -43,7 +43,3 @@ A combination of android app and website using android studio, native javascript
 
 # Unlockme
 A static promotional page and a fully functional app in ios and android using React Native. Check it out <a href="https://github.com/kelvinkaicheung/Kelvin-Ip-Profile/blob/edd7866c6fbb4f0acba6b4434b6771a9fc98dfe7/Unlockme.md">here</a>.
-
-# Contact Me:
-<div>
-email: websummernow@gmail.com</div>
